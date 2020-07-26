@@ -9,7 +9,7 @@ Compilation of excercises, tests and developments
 
 - - - -
 
-## - JavaScript:
-  - 
+## - Web Devs:
+  - Tic Tac Toe: Basic game against random computer
   
 - - - - 
