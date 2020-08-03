@@ -11,6 +11,6 @@ Compilation of excercises, tests and developments
 
 ## - Web Devs:
   - Tic Tac Toe: Basic game against random computer
-  - Basic responsive Navbar from [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) with just a couple changes
+  - Basic responsive Navbar from [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) youtube tutorial with just a couple changes
   
 - - - - 
