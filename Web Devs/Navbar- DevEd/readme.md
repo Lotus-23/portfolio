@@ -1,0 +1,1 @@
+Basic responsive Navbar product of [Responsive Navigation Bar Tutorial | HTML CSS JAVASCRIPT](https://www.youtube.com/watch?v=gXkqy0b4M5g&t=48s) from [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) with just a coumple changes
